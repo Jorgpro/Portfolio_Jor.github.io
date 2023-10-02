@@ -1,4 +1,4 @@
-import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 *{
 box-sizing: border-box;
@@ -434,4 +434,7 @@ nav.responsive ul li{
   .contacto .fila .col{
     width: 100%;
   } 
+}
+a :hover{
+  color: #1CB698;
 }
