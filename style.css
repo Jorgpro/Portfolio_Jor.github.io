@@ -12,7 +12,7 @@ html{
     scroll-behavior: smooth;
 }
 .contenedor-header{
-  background: #1e2326;
+  background:#1e2326 ;
    position: fixed;
     width: 100%;
     top: 0;
