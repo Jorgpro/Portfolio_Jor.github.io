@@ -1,13 +1,26 @@
+<<<<<<< HEAD
 #quote-container {
     background-color: aquamarine;
+=======
+.container {
+>>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+<<<<<<< HEAD
     margin: 10px;
     padding:  8px ; 
     border-radius: 10px;
+=======
+    border: 1px gray solid;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 20px; 
+    margin: 20px;
+    box-shadow: 5px 10px 10px ; 
+>>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
 }
 
 #quote-text {

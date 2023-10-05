@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+=======
+ @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+>>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
 
 *{
 box-sizing: border-box;
@@ -446,4 +450,7 @@ nav.responsive ul li{
   .contacto .fila .col{
     width: 100%;
   } 
+}
+a :hover{
+  color: #1CB698;
 }
