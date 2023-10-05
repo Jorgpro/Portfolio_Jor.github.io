@@ -1,10 +1,13 @@
-.container {
+#quote-container {
     background-color: aquamarine;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    margin: 10px;
+    padding:  8px ; 
+    border-radius: 10px;
 }
 
 #quote-text {

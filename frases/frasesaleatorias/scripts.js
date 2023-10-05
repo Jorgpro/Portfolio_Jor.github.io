@@ -3,6 +3,7 @@ const quotes = [
     {
         text: "La vida es cambio, el crecimiento es opcional. Elige sabiamente.",
         author: "Karen Kaiser Clark"
+        
     },
     {
         text: "No importa lo lento que vayas, siempre y cuando no te detengas.",
@@ -21,7 +22,7 @@ const quotes = [
         author: "Jim Rohn"
     }
 ];
-
+ 
 // Función para obtener una frase aleatoria
 function getRandomQuote() {
     return quotes[Math.floor(Math.random() * quotes.length)];
