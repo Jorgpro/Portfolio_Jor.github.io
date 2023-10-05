@@ -4,7 +4,10 @@ const quotes = [
         text: "La vida es cambio, el crecimiento es opcional. Elige sabiamente.",
         author: "Karen Kaiser Clark"
 <<<<<<< HEAD
+<<<<<<< HEAD
         
+=======
+>>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
 =======
 >>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
     },
@@ -26,7 +29,11 @@ const quotes = [
     }
 ];
 <<<<<<< HEAD
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
 =======
 
 >>>>>>> eca0f295504ac96cd6b82034c14cb46c5b595aa6
