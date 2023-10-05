@@ -5,11 +5,11 @@
     align-items: center;
     min-height: 100vh;
     border: 1px gray solid;
-    background-color: aqua;
-    border-radius: 10px;
+    background-color: aquamarine;
+ 
     padding: 20px; 
     margin: 20px;
-    box-shadow: 5px 10px 10px ; 
+ 
 }
 
 #quote-text {
