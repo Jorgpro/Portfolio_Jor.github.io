@@ -1,14 +1,13 @@
-.container {
+.container-fluid{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    border: 1px gray solid;
-    background-color: aquamarine;
- 
+    border: none;
+    background-image: url('http://4.bp.blogspot.com/-ISMSPfAspPg/UHNvuCcWURI/AAAAAAAABgA/hwL8mcFjjO4/s1600/Abstracto%2BAzul.jpg');
     padding: 20px; 
-    margin: 20px;
+    margin: auto 0;
  
 }
 
@@ -17,11 +16,14 @@
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
+    color: white;
+
 }
 
 #quote-author {
     font-size: 20px;
     text-align: center;
+    color: white;
 }
 
 .btn {
