@@ -1,0 +1,44 @@
+
+
+*{
+margin: 0;
+padding: 0;
+
+
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: url('https://get.pxhere.com/photo/board-wood-plank-floor-brown-lumber-wood-floor-background-hardwood-wooden-oak-backdrop-wood-background-flooring-plywood-wood-grain-wood-flooring-laminate-flooring-wood-stain-honey-oak-1228182.jpg')  no-repeat center center/cover;
+}
+.contenedor-principal{
+background-color: antiquewhite;
+width: 80vw;
+max-width: 600px;
+min-height: 350px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+
+}
+.contenedor-botones{
+    padding: 20px;
+
+
+}
+
+#cronometro{
+width: 100%;
+font-size: 80px;
+font-weight: bold;
+user-select: none;
+font-family: 'Courier New', Courier, monospace;
+
+}
+.boton{
+
+}
