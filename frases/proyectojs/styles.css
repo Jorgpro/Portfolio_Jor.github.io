@@ -12,17 +12,19 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url('https://get.pxhere.com/photo/board-wood-plank-floor-brown-lumber-wood-floor-background-hardwood-wooden-oak-backdrop-wood-background-flooring-plywood-wood-grain-wood-flooring-laminate-flooring-wood-stain-honey-oak-1228182.jpg')  no-repeat center center/cover;
+  background: url('https://besthqwallpapers.com/Uploads/19-8-2020/140002/brown-bricks-background-macro-brown-bricks-brown-brickwall-bricks-textures.jpg') no-repeat center center/cover;
 }
 .contenedor-principal{
-background-color: antiquewhite;
-width: 80vw;
-max-width: 600px;
-min-height: 350px;
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-align-items: center;
+  border: 2px rgb(16, 29, 73) solid;
+  background-color: white;
+  width: 80vw;
+  max-width: 600px;
+  min-height: 350px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
 
 }
 .contenedor-botones{
@@ -40,5 +42,10 @@ font-family: 'Courier New', Courier, monospace;
 
 }
 .boton{
-
+ width: 60px;
+ height: 30px;
+ border-radius: 6px;
+ color: white;
+ background-color: rgb(16, 29, 73);
+ border: none;
 }
