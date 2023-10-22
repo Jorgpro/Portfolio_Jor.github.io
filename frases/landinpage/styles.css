@@ -12,7 +12,7 @@ html{
     scroll-behavior: smooth;
 }
 .contenedor-header{
-  background:orangered ;
+  background:white;
    position: fixed;
     width: 100%;
     top: 0;
@@ -29,7 +29,7 @@ html{
       padding: 15px 20px;
 }
 .contenedor-header header .logo a{
-color: white;
+color: black;
 font-size: 36px;
 text-decoration: none;
 
@@ -42,7 +42,7 @@ text-decoration: none;
 
 }
 .contenedor-header header nav ul li a{
-color: white;
+color: black;
 text-align: none;
 margin : 0px 15px;
 padding: 3px;
@@ -116,25 +116,6 @@ font-weight: bold;
 .sobremi .fila col{
   width: 50px;
 }
-.sobremi .fila .col h3{
-  font-size: 28px ;
-  font-family: 'Righteous';
-  margin-bottom: 25px;
-}
-.sobremi .fila .col ul{
-  list-style: none;
-}
-.sobremi .fila .col ul li{
-  margin: 12px;
-}
-
-.sobremi .fila .col ul li span{
-  background-color: red;
-  padding: 3px;
-  font-weight: bold;
-  border-radius: 5px;
-}
-
 
 
 
@@ -175,40 +156,12 @@ padding: 50px 20px;
   display: block;
   border-radius: 10px;
 }
-.portfolio .galeria .proyecto .overlay{
-  position:absolute;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  background: linear-gradient(rgba(28,182,152,8),rgba(28,182,152,8));
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  transition: 1s;
-  font-size: 18px;
-  letter-spacing: 3px;
-  opacity: 0;
-
-}
 
 
 
-
-
-
-
-#descarga{
-  text-decoration: none;
-}
-#descarga :hover{
-  color: white;
-}
 
 .contacto{
-  
-  background-color: orangered;
-  color: black;
+
   padding: 5px 0 ;
 }
 .contacto .contenido-seccion{
@@ -235,10 +188,10 @@ padding: 50px 20px;
   display: flex; 
   width: 100%;
   padding: 18px;
-  border: 1px gray solid;
+  border: none;;
   margin-bottom: 20px;
   background-color: white;
-  color: gray; 
+  color: black; 
   font-size: 18px;
 }
 .contacto button{
@@ -258,14 +211,15 @@ padding: 50px 20px;
     height: 100%;
     }
 
-.contacto .col img{
+.contacto{
   width: 100%; 
   height: 87.5%;
+  background: url('https://web-assets.esetstatic.com/wls/2019/04/ciberataques-edificios-inteligentes.jpg') no-repeat center center/cover;
 }
 .contacto .col .info{
   position: absolute;
   top: 40%;
-  background-color: #252a2e;
+  background-color: #252;
   padding: 20px; 
   width: fit-content;
   left: 50%;
@@ -300,7 +254,7 @@ footer .arriba{
   display: block; 
   width: 50px; 
   height: 50px; 
-  background-color: black;
+  background-color: blueviolet;
   color:#fff;
   position: absolute; 
   left: 50%;
