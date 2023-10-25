@@ -34,8 +34,8 @@ body {
 }
 
 #cronometro{
-width: 100%;
-font-size: 80px;
+width: 80%;
+font-size: 60px;
 font-weight: bold;
 user-select: none;
 font-family: 'Courier New', Courier, monospace;
